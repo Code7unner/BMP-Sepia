@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/soul7ucker/coding/bitmap_Sepia/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+windef.h
+/home/soul7ucker/coding/bitmap_Sepia/windef.h
+math.h
+-
+stdbool.h
+/home/soul7ucker/coding/bitmap_Sepia/stdbool.h
+malloc.h
+-
+stdint.h
+-
+
+/home/soul7ucker/coding/bitmap_Sepia/windef.h
+vxWorks.h
+-
+

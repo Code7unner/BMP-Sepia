@@ -1,0 +1,3 @@
+/home/soul7ucker/coding/bitmap_Sepia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/soul7ucker/coding/bitmap_Sepia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/soul7ucker/coding/bitmap_Sepia/cmake-build-debug/CMakeFiles/bitmap_Sepia.dir
